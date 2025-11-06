@@ -10,7 +10,7 @@
 
 2. **在本地执行：**
 ```bash
-git clone https://github.com/sysu-qhxx/DQN-Assignment.git
+git clone https://github.com/sysu-qhxx/studentA-DQN-Assignment.git
 git checkout -b dev
 ```
 
@@ -151,5 +151,6 @@ python evaluate.py
    * `dqn/agent.py` 完整实现
    * 可选：`train.log` 或训练曲线截图
    * 提交信息中写明你实现了哪些部分
+
 
 
